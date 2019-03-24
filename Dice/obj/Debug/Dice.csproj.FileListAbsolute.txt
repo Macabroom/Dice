@@ -1,0 +1,7 @@
+C:\Users\chius\source\repos\Dice\Dice\bin\Debug\Dice.exe.config
+C:\Users\chius\source\repos\Dice\Dice\bin\Debug\Dice.exe
+C:\Users\chius\source\repos\Dice\Dice\bin\Debug\Dice.pdb
+C:\Users\chius\source\repos\Dice\Dice\obj\Debug\Dice.csprojAssemblyReference.cache
+C:\Users\chius\source\repos\Dice\Dice\obj\Debug\Dice.csproj.CoreCompileInputs.cache
+C:\Users\chius\source\repos\Dice\Dice\obj\Debug\Dice.exe
+C:\Users\chius\source\repos\Dice\Dice\obj\Debug\Dice.pdb
