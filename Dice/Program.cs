@@ -16,7 +16,7 @@ namespace Dice
             Console.WriteLine(random_int);
             number_of_rolls = random_int;
             List<int> list = new List<int>();
-
+            // Here is a random comment.
             while (number_of_rolls > 0)
             {
                 int dice_number = rand.Next(1, 7);
